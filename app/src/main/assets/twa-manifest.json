@@ -1,0 +1,9 @@
+{
+    "name": "Digital Service Market",
+    "short_name": "DSM",
+    "description": "Digital Marketplace",
+    "start_url": "https://digitalservicemarket.com/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
